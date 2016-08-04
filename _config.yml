@@ -1,0 +1,14 @@
+layout_spectrum: 0.9433009936474264
+typography_spectrum: 0.6942427076864988
+color:
+  brandStrength: 0.2106608604080975
+  lightness: 0.16693103942088783
+  saturation: 0.5515274244826287
+  rhythmicContrast: 0.8374234461225569
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: MoodyCowStuff
