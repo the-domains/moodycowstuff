@@ -1,4 +1,3 @@
-layout_spectrum: 0.9433009936474264
 typography_spectrum: 0.6942427076864988
 color:
   brandStrength: 0.2106608604080975
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.9433009936474264
 name: MoodyCowStuff
 title: The home of all things Moody Cow
+description: where moo shows stuff to you
