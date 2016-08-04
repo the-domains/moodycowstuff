@@ -1,16 +1,16 @@
-typography_spectrum: 0.6942427076864988
+typography_spectrum: 0.9768069928977638
 color:
-  brandStrength: 0.2106608604080975
-  lightness: 0.16693103942088783
-  saturation: 0.5515274244826287
-  rhythmicContrast: 0.8374234461225569
+  brandStrength: 0.9589206597302109
+  lightness: 0.38143360754475
+  saturation: 0.3376357259694487
+  rhythmicContrast: 0.5959455554839224
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.9433009936474264
+    - '#F0F9FE'
+    - '#1D0B09'
+    - '#A7AFBA'
+    - '#868D95'
+    - '#703F31'
+layout_spectrum: 0.48224964342080057
 name: MoodyCowStuff
 title: The home of all things Moody Cow
 description: where moo shows stuff to you
